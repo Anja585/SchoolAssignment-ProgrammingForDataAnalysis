@@ -10,5 +10,5 @@ To view the notebooks in static form click the following image:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Anja585/SchoolAssignment-ProgrammingForDataAnalysis/tree/main/)
 
 To view the notebooks in dynamic form click the following image: 
-[![Binder](https://mybinder.org/v2/gh/Anja585/SchoolAssignment-ProgrammingForDataAnalysis/main?filepath=numpy_random.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anja585/SchoolAssignment-ProgrammingForDataAnalysis/main?filepath=numpy_random.ipynb)
 # Overview of the Numpy.Random Python package
