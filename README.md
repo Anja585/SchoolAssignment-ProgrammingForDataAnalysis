@@ -12,3 +12,11 @@ To view the notebooks in static form click the following image:
 To view the notebooks in dynamic form click the following image: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Anja585/SchoolAssignment-ProgrammingForDataAnalysis/main?filepath=numpy_random.ipynb)
 # Overview of the Numpy.Random Python package
+Notebook numpy_radnom.ipynb presents the the overview of the following topics: 
+* Python.Random overview
+* Generating simple random data using NumPy
+* Plotting the random numbers
+* How to use NumPy permutations
+* Use of NumPy distribution functions
+* Seeds explained
+
